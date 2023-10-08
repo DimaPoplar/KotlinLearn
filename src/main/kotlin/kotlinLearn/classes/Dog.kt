@@ -1,4 +1,4 @@
-package KotlinLearn.Сlasses
+package kotlinLearn.classes
 
 class Dog(val name: String, val breed: String, weight_param: Int = 123) {
     fun who() {

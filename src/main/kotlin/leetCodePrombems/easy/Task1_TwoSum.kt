@@ -1,4 +1,4 @@
-package leetCodePrombems.Easy
+package leetCodePrombems.easy
 
 
 fun main(args: Array<String>) {

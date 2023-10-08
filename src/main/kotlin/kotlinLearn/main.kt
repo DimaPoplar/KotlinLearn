@@ -1,4 +1,4 @@
-package KotlinLearn
+package kotlinLearn
 
 fun main(args: Array<String>) {
 //    print( KotlinLearn.sum(1,42))

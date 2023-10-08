@@ -1,4 +1,4 @@
-package KotlinLearn.Сlasses
+package kotlinLearn.classes
 
 fun main(args: Array<String>) {
     val dog = Dog("Cat", "Corg")
